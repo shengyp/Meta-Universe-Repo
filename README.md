@@ -1,8 +1,8 @@
-# Multilingual Knowledge-Centric Resources 
+# Meta-Universe-Centric Resources 
 
 
 
-Here, we are concentrate on a series of research papers relate to multilingual knowledge engineering.   
+Here, we are concentrate on a series of research papers relate to the Meta Universe.   
 
 
 Table of Contents
