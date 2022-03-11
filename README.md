@@ -16,7 +16,7 @@ Table of Contents
   * [Multilingual Data Integration](#Multilingual_Data_Integration)
   * [Multilingual Knowledge Graphs](#Multilingual_Knowledge_Graphs)
   * [Multilingual Applications](#Multilingual_Applications)
-  * [Expert Talks](#Expert_Talks)
+  * [Experts' Talks](#Experts'_Talks)
 
 
 ## Datasets_Shared_Tasks
@@ -86,10 +86,10 @@ Table of Contents
 
 
 
-## Expert Talks
-1. [元宇宙中的用户与信息：今生与未来](https://mp.weixin.qq.com/s/_ZIcxWkLvCgfjQ4hJ6vhiQ). 2022.03.11
+## Experts' Talks
+1. [从VR到元宇宙：回顾30年，改变虚拟现实的18件大事](https://mp.weixin.qq.com/s/z3gokk7YM5pb9-NSHKFq8Q). 2022.03.09
 
-2. [[OpenEA]](https://github.com/nju-websoft/OpenEA)
+2. [元宇宙中的用户与信息：今生与未来](https://mp.weixin.qq.com/s/_ZIcxWkLvCgfjQ4hJ6vhiQ). 2022.03.11
 
 3. [[EAkit]](https://github.com/THU-KEG/EAkit)
 
