@@ -91,6 +91,6 @@ Table of Contents
 
 2. [元宇宙中的用户与信息：今生与未来](https://mp.weixin.qq.com/s/_ZIcxWkLvCgfjQ4hJ6vhiQ). 2022.03.11
 
-3. [[EAkit]](https://github.com/THU-KEG/EAkit)
+3. [元宇宙是不是个坑？跟人工智能和数字经济是啥关系？](https://mp.weixin.qq.com/s/qe9AksxtRgX4Py-IWpyeWQ) 2022.03.13
 
 
