@@ -20,6 +20,9 @@ Table of Contents
 
 
 ## Survey
+1. Thippa Reddy Gadekallu, Thien Huynh-The, Weizheng Wang, et., al. **Blockchain for the Metaverse: A Review**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2203.09738.pdf)
+
+
 1. 吴江, 曹喆, 陈佩, 贺超城, 柯 丹. **元宇宙视域下的用户信息行为: 框架与展望**. 信息资源管理学报 2022. [[Paper]](http://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/article/openArticlePDF.jsp?id=5714)
 
 
