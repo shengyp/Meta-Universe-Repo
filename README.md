@@ -23,7 +23,13 @@ Table of Contents
 1. Thippa Reddy Gadekallu, Thien Huynh-The, Weizheng Wang, et., al. **Blockchain for the Metaverse: A Review**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2203.09738.pdf)
 
 
-1. 吴江, 曹喆, 陈佩, 贺超城, 柯 丹. **元宇宙视域下的用户信息行为: 框架与展望**. 信息资源管理学报 2022. [[Paper]](http://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/article/openArticlePDF.jsp?id=5714)
+2. Yuntao Wang, Zhou Su, Ning Zhang, et., al. **A Survey on Metaverse: Fundamentals, Security, and Privacy**. Arxiv 2022. [[Paper]](https://arxiv.org/pdf/2203.02662.pdf)
+
+
+3. 吴江, 曹喆, 陈佩, 贺超城, 柯 丹. **元宇宙视域下的用户信息行为: 框架与展望**. 信息资源管理学报 2022. [[Paper]](http://jirm.whu.edu.cn/jwk3/xxzyglxb/CN/article/openArticlePDF.jsp?id=5714)
+
+
+4. 向安玲, 高爽, 彭影彤, 沈阳. **知识重组与场景再构： 面向数字资源管理的元宇宙**. 图书情报知识 2022. [[Paper]](http://dik.whu.edu.cn/jwk3/tsqbzs/CN/article/openArticlePDF.jsp?id=5729)
 
 
 
@@ -93,8 +99,14 @@ Table of Contents
 ## Expert_Talks
 1. [从VR到元宇宙：回顾30年，改变虚拟现实的18件大事](https://mp.weixin.qq.com/s/z3gokk7YM5pb9-NSHKFq8Q). 2022.03.09
 
+
 2. [元宇宙中的用户与信息：今生与未来](https://mp.weixin.qq.com/s/_ZIcxWkLvCgfjQ4hJ6vhiQ). 2022.03.11
 
+
 3. [元宇宙是不是个坑？跟人工智能和数字经济是啥关系？](https://mp.weixin.qq.com/s/qe9AksxtRgX4Py-IWpyeWQ) 2022.03.13
+
+
+4. [张新长教授 | 智慧城市建设中的数字孪生与元宇宙](https://mp.weixin.qq.com/s/AuEyPJIJ_jBmLLWpHJC3-Q). 2022.03.30
+
 
 
