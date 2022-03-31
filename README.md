@@ -10,6 +10,7 @@ Table of Contents
 
 
   * [Survey](#Survey)
+  * [Development Trend](#Development_Trend)  
   * [Multilingual Text Analysis](#Multilingual_Text_Analysis)
   * [Multilingual Vector Representations](#Multilingual_Vector_Representations)
   * [Multilingual Ontology Matching](#Multilingual_Ontology_Matching)
@@ -30,6 +31,10 @@ Table of Contents
 
 
 4. 向安玲, 高爽, 彭影彤, 沈阳. **知识重组与场景再构： 面向数字资源管理的元宇宙**. 图书情报知识 2022. [[Paper]](http://dik.whu.edu.cn/jwk3/tsqbzs/CN/article/openArticlePDF.jsp?id=5729)
+
+
+## Development_Trend
+1. **元宇宙将有750亿新人类？新智元发布《中国AI和元宇宙产业七大趋势》及2021创新大奖**. 新智元 2022. [[Report]](https://mp.weixin.qq.com/s/1Eax2tIvCo1jxhY-B294JQ)
 
 
 
