@@ -16,7 +16,7 @@ Table of Contents
   * [Multilingual Ontology Matching](#Multilingual_Ontology_Matching)
   * [Multilingual Data Integration](#Multilingual_Data_Integration)
   * [Multilingual Knowledge Graphs](#Multilingual_Knowledge_Graphs)
-  * [Multilingual Applications](#Multilingual_Applications)
+  * [Meta Universe for Business](#Meta_Universe_for_Business)
   * [Expert Talks](#Expert_Talks)
 
 
@@ -39,16 +39,6 @@ Table of Contents
 ## Development_Trend
 1. **元宇宙将有750亿新人类？新智元发布《中国AI和元宇宙产业七大趋势》及2021创新大奖**. 新智元 2022. [[Report]](https://mp.weixin.qq.com/s/1Eax2tIvCo1jxhY-B294JQ)
 
-
-
-## Multilingual_Text_Analysis
-1. Gerard de Melo, Stefan Siersdorfer. **Multilingual Text Classification Using Ontologies**. ECIR 2007. [[Paper]](http://gerard.demelo.org/papers/demelo-mltc-ecir2007.pdf)
-
-
-2. Gerard de Melo. **Adaptive Multilingual Text Classification using Ontologies**. Master's Thesis 2006. [[Thesis]](http://gerard.demelo.org/papers/mltc-thesis.pdf)
-
-
-3. Elkin Darío Gutiérrez, Ekaterina Shutova, Patricia Lichtenstein, Gerard de Melo, and Luca Gilardi. **Detecting Cross-Cultural Differences Using a Multilingual Topic Model**. TACL 2006. [[paper]](http://gerard.demelo.org/papers/cross-cultural-tacl2016.pdf)
 
 
 
@@ -99,8 +89,8 @@ Table of Contents
 <!-- [和AI结对编程！OpenAI与GitHub联手推出AI代码生成工具，比GPT-3更强大](https://mp.weixin.qq.com/s/6ZKdBPgv6pZ1aE4o0XRBig) -->
 
 
-## Multilingual_Applications
-1. Gerard de Melo, Gerhard Weikum. **Providing Multilingual, Multimodal Answers to Lexical Database Queries**. LREC 2010. [[Paper]](http://gerard.demelo.org/papers/demelo-mm-lrec2010.pdf)
+## Meta_Universe_for_Business
+1. [元宇宙超算力来了，这家独角兽要造AR芯片](https://mp.weixin.qq.com/s/Sfc9Lo6pe3rx31XsbjGavw). 2022.04.15
 
 
 
