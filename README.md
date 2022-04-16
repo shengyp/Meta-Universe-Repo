@@ -15,7 +15,7 @@ Table of Contents
   * [Multilingual Vector Representations](#Multilingual_Vector_Representations)
   * [Multilingual Ontology Matching](#Multilingual_Ontology_Matching)
   * [Multilingual Data Integration](#Multilingual_Data_Integration)
-  * [Multilingual Knowledge Graphs](#Multilingual_Knowledge_Graphs)
+  * [Digital Education for Knowledge Graphs](#Digital_Education_for_Knowledge_Graphs)
   * [Meta Universe for Business](#Meta_Universe_for_Business)
   * [Expert Talks](#Expert_Talks)
 
@@ -61,29 +61,9 @@ Table of Contents
 
 
 
-## Multilingual_Knowledge_Graphs
-1. Gerard de Melo, Gerhard Weikum. **MENTA: Inducing Multilingual Taxonomies from Wikipedia**. CIKM 2010. [[Paper]](http://gerard.demelo.org/papers/demelo-menta-cikm2010.pdf)
+## Digital_Education_for_Knowledge_Graphs 
+1. 郭文革 等. **教育数字化战略行动枢纽工程：基于知识图谱的新型教材建设**. [[Paper]](https://mp.weixin.qq.com/s/BKVEafmwBGKYxdykh-qJ3w)
 
-
-2. Gerard de Melo, Gerhard Weikum. **Towards Universal Multilingual Knowledge Bases**. GWC 2010. [[Paper]](http://gerard.demelo.org/papers/demelo-universal-lexical-gwc2010.pdf)
-
-
-3. Gerard de Melo, Gerhard Weikum. **UWN: A Large Multilingual Lexical Knowledge Base**. ACL 2012 (Demonstration Paper). [[Paper]](http://gerard.demelo.org/papers/demelo-uwn-acl2012.pdf)
-
-
-4. Muhao Chen, Yingtao Tian, Mohan Yang, and Carlo Zaniolo. **Multilingual knowledge graph embeddings for cross-lingual knowledge alignment**. IJCAI 2017. [[Paper]](https://dl.acm.org/doi/10.5555/3172077.3172097)
-
-
-5. 吴天星. **面向社交站点的双语知识图谱构建方法的研究**. 东南大学 2019 (博士学位论文). [[Thesis]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2019&filename=1019650262.nh&uniplatform=NZKPT&v=OM1xTBRHgchAbJJbJ75VwIFk5UDJjT1SNVQ4WmJk6XJdScpmVihwUuF0TU03jUZW)
-
-
-6. Qiannan Zhu, Xiaofei Zhou, Jia Wu, Jianlong Tan, and Li Guo. **Neighborhood-Aware Attentional Representation for Multilingual Knowledge Graphs**. IJCAI 2019. [[Paper]](https://www.ijcai.org/proceedings/2019/0269.pdf)
-
-
-7. Xuelu Chen, Muhao Chen, Changjun Fan, Ankith Uppunda, Yizhou Sun, and Carlo Zaniolo. **Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer**. Findings of EMNLP 2020. [[Paper]](https://aclanthology.org/2020.findings-emnlp.290.pdf)
-
-
-8. Harkanwar Singh, Prachi Jain, Mausam, and Soumen Chakrabarti. **Multilingual Knowledge Graph Completion with Joint Relation and Entity Alignment**. Arxiv 2021. [[Paper]](https://arxiv.org/abs/2104.08804)
 
 
 <!-- [和AI结对编程！OpenAI与GitHub联手推出AI代码生成工具，比GPT-3更强大](https://mp.weixin.qq.com/s/6ZKdBPgv6pZ1aE4o0XRBig) -->
@@ -106,5 +86,7 @@ Table of Contents
 
 4. [张新长教授 | 智慧城市建设中的数字孪生与元宇宙](https://mp.weixin.qq.com/s/AuEyPJIJ_jBmLLWpHJC3-Q). 2022.03.30
 
+
+5. [国家信息中心单志广：元宇宙将成为数字经济未来发展的重要载体和综合场景](https://mp.weixin.qq.com/s/fWSvoiXZq8zEBsGlpR_Hpg). 2022.04.01
 
 
