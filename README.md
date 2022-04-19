@@ -90,3 +90,5 @@ Table of Contents
 5. [国家信息中心单志广：元宇宙将成为数字经济未来发展的重要载体和综合场景](https://mp.weixin.qq.com/s/fWSvoiXZq8zEBsGlpR_Hpg). 2022.04.01
 
 
+6. [深度了解军事元宇宙：一个空洞的流行词还是美国五角大楼的虚拟资源？](https://mp.weixin.qq.com/s/A753CkceTYUmx-KaFXUM2w) 2022.04.18
+
