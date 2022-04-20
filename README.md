@@ -92,3 +92,7 @@ Table of Contents
 
 6. [深度了解军事元宇宙：一个空洞的流行词还是美国五角大楼的虚拟资源？](https://mp.weixin.qq.com/s/A753CkceTYUmx-KaFXUM2w) 2022.04.18
 
+
+7. [元宇宙的当下与未来](https://mp.weixin.qq.com/s/W159-xDvW2Qx73LlEP5S5Q). 2022.04.20
+
+
