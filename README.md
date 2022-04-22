@@ -36,6 +36,10 @@ Table of Contents
 5. 史元春. **元宇宙需要人机交互的突破**. 学会通讯 2022. [[Paper]](https://pi.cs.tsinghua.edu.cn/wp-content/uploads/2022/02/%E5%85%83%E5%AE%87%E5%AE%99%E9%9C%80%E8%A6%81%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E7%9A%84%E7%AA%81%E7%A0%B4-CAAI.pdf)
 
 
+6. 王文喜, 周芳, 万月亮, 宁焕生. **元宇宙技术综述**. 工程科学学报 2022. [[Paper]](http://cje.ustb.edu.cn/article/doi/10.13374/j.issn2095-9389.2022.01.15.003?viewType=HTML). [[Report]](https://mp.weixin.qq.com/s/vioDO8yAXL5Muit2HbuGqA)
+
+
+
 ## Development_Trend
 1. **元宇宙将有750亿新人类？新智元发布《中国AI和元宇宙产业七大趋势》及2021创新大奖**. 新智元 2022. [[Report]](https://mp.weixin.qq.com/s/1Eax2tIvCo1jxhY-B294JQ)
 
