@@ -100,3 +100,5 @@ Table of Contents
 7. [元宇宙的当下与未来](https://mp.weixin.qq.com/s/W159-xDvW2Qx73LlEP5S5Q). 2022.04.20
 
 
+8. [【专家视角】解读知识图谱在教育智能化中的应用（上）](https://mp.weixin.qq.com/s/EdhPsYUOQnSgGYnWgBCH-Q). 2022.05.14 | [【专家视角】解读知识图谱在教育智能化中的应用（下）](https://mp.weixin.qq.com/s/TZbRnBxApKWyzv6rbDYfrQ). 2022.05.17 
+
