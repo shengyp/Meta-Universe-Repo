@@ -102,3 +102,5 @@ Table of Contents
 
 8. [【专家视角】解读知识图谱在教育智能化中的应用（上）](https://mp.weixin.qq.com/s/EdhPsYUOQnSgGYnWgBCH-Q). 2022.05.14 | [【专家视角】解读知识图谱在教育智能化中的应用（下）](https://mp.weixin.qq.com/s/TZbRnBxApKWyzv6rbDYfrQ). 2022.05.17 
 
+
+9. [香港浸会大学副校长郭毅可：识破天机，揭秘元宇宙](https://mp.weixin.qq.com/s/rrncLPZlyIIFKWHPT_Q3VA). 2022.05.22
