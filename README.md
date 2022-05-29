@@ -104,3 +104,7 @@ Table of Contents
 
 
 9. [香港浸会大学副校长郭毅可：识破天机，揭秘元宇宙](https://mp.weixin.qq.com/s/rrncLPZlyIIFKWHPT_Q3VA). 2022.05.22
+
+
+10. [康奈尔计算计学院院长Kavita Bala：「元宇宙」算什么？上帝之眼或将通过 AI 诞生](https://mp.weixin.qq.com/s/X4gqywgR0QUD0Lns3igbDA). 2022.05.28
+
