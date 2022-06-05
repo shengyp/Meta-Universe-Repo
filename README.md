@@ -108,3 +108,13 @@ Table of Contents
 
 10. [康奈尔计算计学院院长Kavita Bala：「元宇宙」算什么？上帝之眼或将通过 AI 诞生](https://mp.weixin.qq.com/s/X4gqywgR0QUD0Lns3igbDA). 2022.05.28
 
+
+11. [利用宇宙的能力来处理数据！「物理网络」远胜深度神经网络](https://mp.weixin.qq.com/s/5AvCstzSGLrkASQr3vdCsQ). 2022.06.02
+
+
+12. [元宇宙创新者1：概念爆火后，才被世界看到的图形学大牛们](https://mp.weixin.qq.com/s/GqBbCYcGxc0ab3ycDcZ37Q). 2022.06.04
+
+
+
+
+
