@@ -39,6 +39,9 @@ Table of Contents
 6. 王文喜, 周芳, 万月亮, 宁焕生. **元宇宙技术综述**. 工程科学学报 2022. [[Paper]](http://cje.ustb.edu.cn/article/doi/10.13374/j.issn2095-9389.2022.01.15.003?viewType=HTML). [[Report]](https://mp.weixin.qq.com/s/vioDO8yAXL5Muit2HbuGqA)
 
 
+7. 中通服咨询设计研究院有限公司. **元宇宙技术全景白皮书**. 2022. [[Report]](https://www.aijianmo.com/Uploads/Editor/File/2022-06-24/62b50d88d4e20.pdf)
+
+
 
 ## Development_Trend
 1. **元宇宙将有750亿新人类？新智元发布《中国AI和元宇宙产业七大趋势》及2021创新大奖**. 新智元 2022. [[Report]](https://mp.weixin.qq.com/s/1Eax2tIvCo1jxhY-B294JQ)
