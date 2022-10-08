@@ -118,6 +118,8 @@ Table of Contents
 12. [元宇宙创新者1：概念爆火后，才被世界看到的图形学大牛们](https://mp.weixin.qq.com/s/GqBbCYcGxc0ab3ycDcZ37Q). 2022.06.04
 
 
+13. [【CICC原创】元宇宙、虚拟空间与平行智能](https://mp.weixin.qq.com/s/YKEqf0baKaLgp-wCokfUew). 2022.10.08
+
 
 
 
