@@ -77,7 +77,7 @@ Table of Contents
 
 
 ## Meta_Universe_for_Business
-1. [元宇宙超算力来了，这家独角兽要造AR芯片](https://mp.weixin.qq.com/s/Sfc9Lo6pe3rx31XsbjGavw). 2022.04.15
+1. **元宇宙超算力来了，这家独角兽要造AR芯片**. 2022.04.15. [[Report]](https://mp.weixin.qq.com/s/Sfc9Lo6pe3rx31XsbjGavw)
 
 
 2. **2022年元宇宙系列白皮书： 中国工业元宇宙发展洞见**. 2022.11.26. [[Report]](https://pan.baidu.com/s/1mSLnk7Zboq46yyMbWz8D9g?pwd=jnsd)
