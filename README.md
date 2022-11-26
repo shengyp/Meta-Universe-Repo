@@ -80,6 +80,9 @@ Table of Contents
 1. [元宇宙超算力来了，这家独角兽要造AR芯片](https://mp.weixin.qq.com/s/Sfc9Lo6pe3rx31XsbjGavw). 2022.04.15
 
 
+2. **2022年元宇宙系列白皮书： 中国工业元宇宙发展洞见**. 2022.11.26. [[Report]](https://pan.baidu.com/s/1mSLnk7Zboq46yyMbWz8D9g?pwd=jnsd)
+
+
 
 ## Expert_Talks
 1. [从VR到元宇宙：回顾30年，改变虚拟现实的18件大事](https://mp.weixin.qq.com/s/z3gokk7YM5pb9-NSHKFq8Q). 2022.03.09
